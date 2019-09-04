@@ -1,7 +1,9 @@
 package com.zb.entity;
 
 import java.io.Serializable;
-
+/**
+* 房屋信息
+*/
 public class HouseInfors implements Serializable {
 
      private  Integer houseId; //'房屋编号',
