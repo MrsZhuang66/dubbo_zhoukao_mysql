@@ -2,7 +2,8 @@ package com.zb.entity;
 
 import java.io.Serializable;
 /**
-* 房屋信息
+ * 房屋信
+ * 王壮
 */
 public class HouseInfors implements Serializable {
 
